@@ -27,6 +27,5 @@ public class Product {
     @Column(name = "create_time", nullable = false)
     private LocalDateTime createTime;
 
-    private double sayi = 1_90000_090.;
 
 }
